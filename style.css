@@ -1,0 +1,15 @@
+*{background-color: rgb(231, 219, 180);
+text-align: center;
+font-size: 40px;
+color: rgb(117, 19, 19);}
+
+.foto1{
+    text-align: left;
+}
+.foto2{
+    text-align: center;
+}
+
+.foto3{
+    text-align: right;
+}

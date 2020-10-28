@@ -1,0 +1,16 @@
+*{background-color: rgb(231, 219, 180);
+    font-size: 30px;
+    color: rgb(161, 34, 34);}
+    
+    h1.granate{
+        color: rgb(88, 14, 14);
+        font-size: 50px;
+        text-align: center;
+        
+    } 
+
+    p.rojo{
+        color:rgb(204, 6, 6);
+        font-size: 20px;
+        font-weight: bold;
+    }
